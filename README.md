@@ -1,4 +1,4 @@
-# Server platform for Raspberry Pi
+# Rack-mount server platform for Raspberry Pi
 [Official website uplab.pro](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
 
 ![Uptime Platform for Raspberry Pi Mark III n18](/Uptime%20Platform%20MKIII%20n18.jpg?raw=true "Uptime Platform for Raspberry Pi Mark III n18")
